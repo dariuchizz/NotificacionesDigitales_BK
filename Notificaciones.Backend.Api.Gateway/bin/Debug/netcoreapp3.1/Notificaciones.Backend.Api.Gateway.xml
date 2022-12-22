@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Notificaciones.Backend.Api.Gateway</name>
+    </assembly>
+    <members>
+        <member name="T:Notificaciones.Backend.Api.Gateway.Program">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Notificaciones.Backend.Api.Gateway.Startup">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Notificaciones.Backend.Api.Gateway.Startup.#ctor(Microsoft.Extensions.Logging.ILogger{Notificaciones.Backend.Api.Gateway.Startup},Microsoft.Extensions.Configuration.IConfiguration,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>
+            
+            </summary>
+            <param name="logger"></param>
+            <param name="configuration"></param>
+            <param name="env"></param>
+        </member>
+        <member name="M:Notificaciones.Backend.Api.Gateway.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:Notificaciones.Backend.Api.Gateway.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder)">
+            <summary>
+            
+            </summary>
+            <param name="app"></param>
+        </member>
+    </members>
+</doc>

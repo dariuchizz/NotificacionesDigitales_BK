@@ -1,0 +1,13 @@
+C:\Users\djuarez\source\ND\NotificacionesDigitales\Processor\bin\Debug\netcoreapp3.1\Processor.deps.json
+C:\Users\djuarez\source\ND\NotificacionesDigitales\Processor\bin\Debug\netcoreapp3.1\Processor.dll
+C:\Users\djuarez\source\ND\NotificacionesDigitales\Processor\bin\Debug\netcoreapp3.1\Processor.pdb
+C:\Users\djuarez\source\ND\NotificacionesDigitales\Processor\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\djuarez\source\ND\NotificacionesDigitales\Processor\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\djuarez\source\ND\NotificacionesDigitales\Processor\obj\Debug\netcoreapp3.1\Processor.csproj.AssemblyReference.cache
+C:\Users\djuarez\source\ND\NotificacionesDigitales\Processor\obj\Debug\netcoreapp3.1\Processor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djuarez\source\ND\NotificacionesDigitales\Processor\obj\Debug\netcoreapp3.1\Processor.AssemblyInfoInputs.cache
+C:\Users\djuarez\source\ND\NotificacionesDigitales\Processor\obj\Debug\netcoreapp3.1\Processor.AssemblyInfo.cs
+C:\Users\djuarez\source\ND\NotificacionesDigitales\Processor\obj\Debug\netcoreapp3.1\Processor.csproj.CoreCompileInputs.cache
+C:\Users\djuarez\source\ND\NotificacionesDigitales\Processor\obj\Debug\netcoreapp3.1\Processor.csproj.CopyComplete
+C:\Users\djuarez\source\ND\NotificacionesDigitales\Processor\obj\Debug\netcoreapp3.1\Processor.dll
+C:\Users\djuarez\source\ND\NotificacionesDigitales\Processor\obj\Debug\netcoreapp3.1\Processor.pdb

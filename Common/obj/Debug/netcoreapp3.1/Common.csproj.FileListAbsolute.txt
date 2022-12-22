@@ -1,0 +1,10 @@
+C:\Users\djuarez\source\ND\NotificacionesDigitales\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\djuarez\source\ND\NotificacionesDigitales\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\djuarez\source\ND\NotificacionesDigitales\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\djuarez\source\ND\NotificacionesDigitales\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djuarez\source\ND\NotificacionesDigitales\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\djuarez\source\ND\NotificacionesDigitales\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\djuarez\source\ND\NotificacionesDigitales\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\djuarez\source\ND\NotificacionesDigitales\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\djuarez\source\ND\NotificacionesDigitales\Common\obj\Debug\netcoreapp3.1\Common.pdb
+C:\Users\djuarez\source\ND\NotificacionesDigitales\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
